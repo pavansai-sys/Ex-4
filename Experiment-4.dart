@@ -1,10 +1,10 @@
 
 import 'package:flutter/material.dart';
-void main()
-{
-  runApp(const ResponsiveApp());
 
+void main() {
+  runApp(const ResponsiveApp());
 }
+
 class ResponsiveApp extends StatelessWidget {
   const ResponsiveApp({super.key});
 
